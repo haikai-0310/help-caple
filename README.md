@@ -17,7 +17,7 @@
 このケースは、3Dプリンタで造形することを想定して設計しているので、サポータや組み立てが不要です。
 「Print-in-Place」と呼ばれる手法で、組み立てられた状態で造形できます。
 
-帽子のように装着しやすく、ヘルプマークもヘルプメッセージの片方が欠けると成り立たなくなることから、「cap」と「couple」を合わせて「Help-Caple」と命名しました。
+帽子のように装着が可能で、ヘルプマーク・ヘルプメッセージの片方が欠けると成り立たなくなることから、「cap」と「couple」を合わせて「Help-Caple」と命名しました。
 
 License: CC BY-NC 4.0
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License(http://creativecommons.org/licenses/by-nc/4.0/).
